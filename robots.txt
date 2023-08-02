@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://baijinming97.github.io/homepage/sitemap.xml
